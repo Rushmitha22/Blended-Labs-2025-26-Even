@@ -70,5 +70,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 ## Author
 **Name:** RUSHMITHA R - 212224040281
+
 **Course:** Introduction to Cloud Computing  
 
