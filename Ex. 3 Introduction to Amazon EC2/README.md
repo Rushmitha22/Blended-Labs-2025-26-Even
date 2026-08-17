@@ -1,4 +1,4 @@
-# LAB 3 - INTRODUCTION TO AMAZON ELASTIC COMPUTTE CLOUD (EC2) 
+# Lab 3 - Introduction to Amazon Elastic Compute Cloud (EC2) 
 
 ## Author
 
