@@ -1,10 +1,10 @@
-# Lab 3 – Introduction to Amazon Elastic Compute Cloud (EC2)
+# LAB 3 - INTRODUCTION TO AMAZON ELASTIC COMPUTTE CLOUD (EC2) 
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: __RUSHMITHA R__
+* **Register Number**: __212224040281__
+* **Date of Submission**: __17/08/2026__
 
 ---
 
@@ -96,13 +96,16 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. The EC2 Dashboard was accessed through the AWS Management Console to explore the Amazon EBS volume types.
+
+2. A new EBS volume was created by selecting the volume type, size, and the same Availability Zone as the EC2 instance.
+
+3. The created EBS volume was attached to the running EC2 instance as an additional block device.
+
+4. The attached volume was formatted using the ext4 file system and mounted to a directory in the EC2 instance.
+
+5. .Sample data was stored in the mounted volume, and after rebooting the instance, data persistence was verified successfully
 
 ---
 
@@ -110,19 +113,26 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1917" height="1022" alt="Screenshot 2026-08-17 135245" src="https://github.com/user-attachments/assets/7d1e6e3d-9f2f-4779-b4c6-e89550063027" />
+
+<img width="1911" height="1023" alt="Screenshot 2026-08-17 135221" src="https://github.com/user-attachments/assets/2ab56a98-925f-422b-bee1-77f3a0dcc2e9" />
+
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="1118" height="752" alt="image" src="https://github.com/user-attachments/assets/08a31ca6-da51-4ecd-a27d-a53849f5b015" />
+
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="1917" height="957" alt="Screenshot 2026-08-17 140415" src="https://github.com/user-attachments/assets/394ccbf7-1da9-47ba-85a6-d8da6c787657" />
+
+<img width="1916" height="1022" alt="Screenshot 2026-08-17 135729" src="https://github.com/user-attachments/assets/7894f4dc-c9e4-4dd8-b48a-e1e4e7f40476" />
+
 
 ---
 
