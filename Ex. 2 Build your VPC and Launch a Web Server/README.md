@@ -1,4 +1,4 @@
-<img width="1917" height="1030" alt="cc lab2 ss3" src="https://github.com/user-attachments/assets/8a23990f-58a4-48e4-9978-eefec640b2c5" /><img width="1912" height="986" alt="cc lab2 ss1" src="https://github.com/user-attachments/assets/6a25c7d9-e66b-4961-8cc6-c9591f482d14" /><img width="1917" height="1030" alt="cc lab2 ss3" src="https://github.com/user-attachments/assets/99f2a341-9a0c-4b10-a69e-d699d498e565" /># EXPERIMENT 2 : BUILD YOUR VPC AND LAUNCH A WEB SERVER (AWS)
+# EXPERIMENT 2 : BUILD YOUR VPC AND LAUNCH A WEB SERVER (AWS)
 
 ## Author
 
