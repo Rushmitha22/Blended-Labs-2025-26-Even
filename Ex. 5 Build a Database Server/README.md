@@ -1,10 +1,10 @@
-# Lab 5 – Build a Database Server (AWS)
+# LAB 5 - BUILD A DATABASE SERVER (AWS)
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: __RUSHMITHA  R__
+* **Register Number**: __212224040281__
+* **Date of Submission**: __22/08/2026__
 
 ---
 
@@ -82,33 +82,33 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
-
+1. First, a security group named DB Security Group was created to allow the web server to connect to the database using port 3306 (MySQL).
+2. A DB Subnet Group was created with subnets from two Availability Zones to allow the database to run in a Multi-AZ environment for high availability.
+3. A MySQL RDS instance named lab-db was created with the database name lab, username main, and password lab-password.
+4. The database was associated with the DB Security Group and the Lab VPC so that the web server can securely connect to the database.
+5. The web application running on the EC2 server was opened using its IP address,and the RDS endpoint, database name, username, and password were entered to interact with the database
 ---
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+<img width="1919" height="1030" alt="Screenshot 2026-08-22 110615" src="https://github.com/user-attachments/assets/bc6ac32e-17f5-4074-a071-81697d7bdf61" />
+
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+<img width="1919" height="1022" alt="Screenshot 2026-08-22 113503" src="https://github.com/user-attachments/assets/2424b6ef-d0f8-41ac-942a-5af1d1d24214" />
+
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+<img width="1806" height="1035" alt="Screenshot 2026-08-22 140036" src="https://github.com/user-attachments/assets/f103fbeb-7498-4aba-960a-10c17f42b285" />
+
 
 ---
 
